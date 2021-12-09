@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TwoActivitiesChallenge</string>
+    <string name="text_1">Text 1</string>
+    <string name="text_2">Text 2</string>
+    <string name="text_3">Text 3</string>
+    <string name="title_trauma">Trauma</string>
+    <string name="description_trauma">
+        "Trauma is an emotional response to a terrible event like an accident, rape or natural disaster. Immediately after the event, shock and denial are typical. Longer term reactions include unpredictable emotions, flashbacks, strained relationships and even physical symptoms like headaches or nausea."
+    </string>
+    <string name="title_joy">Joy</string>
+    <string name="description_joy">
+        "delight, great pleasure, joyfulness, jubilation, triumph, exultation, rejoicing, happiness, gladness, glee, exhilaration, ebullience, exuberance, elation, euphoria, bliss, ecstasy, transports of delight, rapture, radiance. enjoyment, gratification, felicity. cloud nine, seventh heaven. joie de vivre. humorous "
+    </string>
+    <string name="title_imagination">Imagination</string>
+    <string name="description_imagination">
+        "the faculty or action of forming new ideas, or images or concepts of external objects not present to the senses."
+    </string>
+
+
+</resources>
